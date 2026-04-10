@@ -1,0 +1,17 @@
+# Build output
+mini_unionfs
+mini_unionfs.exe
+*.o
+*.obj
+
+
+# Temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+
+MINI_UNIONFS_FUNCTION_SUMMARY.md
+cmd.txt
+UnionFs project.pdf
+
